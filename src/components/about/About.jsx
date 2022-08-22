@@ -22,24 +22,26 @@ const About = () => {
           <div className="about__cards">
             <article className='about__card'>
               <FaAward className='about__icon'/>
-              <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <h5>Volunteering</h5>
+              <small>Senior volunteer within the association EESTEC LC Bucharest</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <h5>IT</h5>
+              <small>Passionate about programming, technology and game development </small>
             </article>
 
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>80+ Completed projects</small>
+              <small>2 large projects and 4+ small projects</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et eveniet ab totam ratione? Quibusdam alias quae dolores similique dignissimos eius explicabo modi atque reiciendis. Eius non esse mollitia officiis voluptatum.
+          I am a passionate student of programming, I am looking to deepen my knowledge about programming
+languages, multi-threading, and inter-process communication. I learned a lot working on personal
+projects but I am willing to learn something from as many fields as possible.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

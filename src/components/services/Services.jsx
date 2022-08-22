@@ -11,96 +11,95 @@ const Services = () => {
       <div className="container services__container">
         <article className='service'>
           <div className="service__head">
-            <h3>UI/UX Design</h3>
-          </div>
-          <ul className='service__list'>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-          </ul>
-        </article>
-        {/* END OF UI/UX */}
-        <article className='service'>
-          <div className="service__head">
             <h3>Web Development</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Designing </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Building </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Maintaining </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Editing and writing content </p>
             </li>
           </ul>
         </article>
         {/* END OF WEB DEVELOPMENT */}
+
         <article className='service'>
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Soft Skills</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Good Communicator </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Fast problem solver </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Strong logical and algorithmic thinking </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Dedicated team player </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Lorem ipsum dolor </p>
+              <p>Ability to take decisions on the spot </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Fast learner </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>High degree of independent judgment </p>
             </li>
           </ul>
         </article>
-        {/* END OF CONTENT CREATION */}
+        {/* END OF SOFT SKILLS */}
+
+        <article className='service'>
+          <div className="service__head">
+            <h3>Software and Game Development</h3>
+          </div>
+          <ul className='service__list'>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Translating ideas into a functional game code </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Coding the base engine of the game </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Troubleshooting code and fixing bugs </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Contributing to the overall game concept and storyline </p>
+            </li>
+            <li>
+              <BiCheck className='service__list-icon' />
+              <p>Accepting and giving constructive feedback </p>
+            </li>
+          </ul>
+        </article>
+        {/* END OF SOFTWARE AND GAME DEVELOPMENT */}
+        
       </div>
     </section>
   )

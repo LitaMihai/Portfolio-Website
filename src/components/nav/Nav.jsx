@@ -7,6 +7,8 @@ import {RiServiceLine} from "react-icons/ri"
 import {AiOutlineMessage} from "react-icons/ai"
 import {useState} from 'react'
 
+import {useScrollPosition} from '../../hooks/useScrollPosition'
+
 const Nav = () => {
   const [activeNav, setActiveNav] = useState('#')
   return (

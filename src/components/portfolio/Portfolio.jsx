@@ -1,51 +1,53 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
+import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG6 from '../../assets/portfolio6.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Crypto Currency Dashboard",
-    github: 'https://github.com',
-    demo: 'https://dribble/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: "Club Capybara",
+    github: 'https://github.com/LitaMihai/Club-Capybara',
+    demo: ''
   },
   {
     id: 2,
     image: IMG2,
-    title: "Charts templates",
-    github: 'https://github.com',
-    demo: 'https://dribble/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'},
+    title: "Car Rental Application",
+    github: 'https://github.com/LitaMihai/Car_Rental',
+    demo: ''
+  },
   {
     id: 3,
     image: IMG3,
-    title: "Figma dashboard UI kit",
-    github: 'https://github.com',
-    demo: 'https://dribble/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'},
+    title: "Java Calculator",
+    github: 'https://github.com/LitaMihai/Java_Calculator',
+    demo: ''},
   {
     id: 4,
     image: IMG4,
-    title: "Maintaining tasks",
-    github: 'https://github.com',
-    demo: 'https://dribble/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'},
+    title: "Lords of Space",
+    github: 'https://github.com/LitaMihai/Lords-of-Space',
+    demo: ''
+  },
   {
     id: 5,
     image: IMG5,
-    title: "Charts templates & ceva in Figma",
-    github: 'https://github.com',
-    demo: 'https://dribble/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: "Destroy The Enemies",
+    github: 'https://github.com/LitaMihai/Destroy_The_Enemies',
+    demo: ''
   },
   {
     id: 6,
     image: IMG6,
-    title: "Charts si ceva",
-    github: 'https://github.com',
-    demo: 'https://dribble/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    title: "Snake Game",
+    github: 'https://github.com/LitaMihai/Snake-Game',
+    demo: ''
   }
 ]
 
@@ -73,7 +75,6 @@ const Portfolio = () => {
         })
       }
     </div>
-
     </section>
   )
 }
