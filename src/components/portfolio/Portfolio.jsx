@@ -49,11 +49,11 @@ const data = [
   }
 ]
 
-const Portofolio = () => {
+const Portfolio = () => {
   return (
-    <section id='portofolio'>
+    <section id='portfolio'>
       <h5>My Recent Work</h5>
-      <h2>Portofolio</h2>
+      <h2>Portfolio</h2>
     
     <div className="container portfolio__container">
       {
@@ -78,4 +78,4 @@ const Portofolio = () => {
   )
 }
 
-export default Portofolio
+export default Portfolio

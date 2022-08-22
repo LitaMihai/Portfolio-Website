@@ -36,7 +36,7 @@
 }
 
 .about__card {
-    background: var(--colog-bg-variant);
+    background: var(--color-bg-variant);
     border: 1px solid transparent;
     border-radius: 1rem;
     padding: 2rem;
