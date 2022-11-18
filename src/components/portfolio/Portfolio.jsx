@@ -7,8 +7,16 @@ import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.jpeg'
 import IMG6 from '../../assets/portfolio6.png'
 import IMG7 from '../../assets/portfolio7.png'
+import IMG8 from '../../assets/portfolio8.png'
 
 const data = [
+  {
+    id: 8,
+    image: IMG8,
+    title: "Java-SQL",
+    github: 'https://github.com/LitaMihai/Java-SQL',
+    demo: 'https://github.com/LitaMihai/Java-SQL'
+  },
   {
     id: 1,
     image: IMG1,

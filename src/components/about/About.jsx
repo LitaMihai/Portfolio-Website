@@ -35,13 +35,11 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>2 large projects and 4+ small projects</small>
+              <small>I used and learned several programming languages ​​that I used in projects</small>
             </article>
           </div>
           <p>
-          I am a passionate student of programming, I am looking to deepen my knowledge about programming
-languages, multi-threading, and inter-process communication. I learned a lot working on personal
-projects but I am willing to learn something from as many fields as possible.
+          I am in my 3rd year of study at the Faculty of Automatics and Computers at the POLITEHNICA University of Bucharest and I work as a Software Tester at Luxoft. I consider myself a good communicator, fast learner and hard-working person who is extremely motivated to constantly develop my technical skills and grow as a human-being. I pay attention to details, I have great problem-solving abilities and interest in learning every day.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
