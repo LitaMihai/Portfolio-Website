@@ -1,14 +1,15 @@
 # Portofolio-Website
- - https://litamihai.github.io/Website-Portfolio/
+ - https://litamihai.github.io/Portfolio-Website/
 
 ## Description
 This repository contains the source code for my portofolio.
 
 ## Prerequisites
+  - React
   - Node.js
   - React-icons
   - Swiper.js
-  - React Email.js
+  - React-Email.js
 
 ## Installation
 To install 'Node.js', visit [Node.js](https://nodejs.org/en/).
