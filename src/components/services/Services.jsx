@@ -16,10 +16,6 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Designing </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
               <p>Building </p>
             </li>
             <li>
@@ -73,16 +69,12 @@ const Services = () => {
 
         <article className='service'>
           <div className="service__head">
-            <h3>Software and Game Development</h3>
+            <h3>Software Development</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Translating ideas into a functional game code </p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon' />
-              <p>Coding the base engine of the game </p>
+              <p>Translating ideas into functional code </p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />
@@ -90,7 +82,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className='service__list-icon' />
-              <p>Contributing to the overall game concept and storyline </p>
+              <p>Playing a role in both the frontend and backend development of the application</p>
             </li>
             <li>
               <BiCheck className='service__list-icon' />

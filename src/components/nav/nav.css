@@ -12,6 +12,8 @@ nav {
     gap: 0.8rem;
     border-radius: 3rem;
     backdrop-filter: blur(15px);
+    opacity: 1;
+    transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
 }
 
 nav a {
@@ -31,4 +33,14 @@ nav a:hover {
 nav a.active{
     background: var(--color-primary);
     color: var(--color-bg);
+}
+
+nav.hide {
+    opacity: 0;
+    visibility: hidden;
+}
+
+nav.show {
+    opacity: 1;
+    visibility: visible;
 }

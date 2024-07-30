@@ -23,7 +23,7 @@ const About = () => {
             <article className='about__card'>
               <FaAward className='about__icon'/>
               <h5>Volunteering</h5>
-              <small>Senior volunteer within the association EESTEC LC Bucharest</small>
+              <small>Alumnus volunteer within the association EESTEC LC Bucharest</small>
             </article>
 
             <article className='about__card'>
@@ -35,11 +35,11 @@ const About = () => {
             <article className='about__card'>
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
-              <small>I used and learned several programming languages ​​that I used in projects</small>
+              <small>I used and learned several tehnologies +that I used in projects</small>
             </article>
           </div>
           <p>
-          I am in my 3rd year of study at the Faculty of Automatics and Computers at the POLITEHNICA University of Bucharest and I work as a Software Tester at Luxoft. I consider myself a good communicator, fast learner and hard-working person who is extremely motivated to constantly develop my technical skills and grow as a human-being. I pay attention to details, I have great problem-solving abilities and interest in learning every day.
+            I have a strong enthusiasm for various aspects of software development, including Back-end, Front-end, Web and Desktop Application Development. When I embark on a learning journey or initiate a new project, my approach involves first conceptualizing the overall scope and then progressively refining the finer details. This method allows me to deliver professional and polished results.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>
